@@ -1,0 +1,19 @@
+@attribute outlook sunny overcast rainy 
+@attribute temperature hot mild cool 
+@attribute humidity high normal 
+@attribute windy TRUE FALSE 
+@attribute play yes no 
+@lastAttribute play yes no 
+@data
+sunny, 0.222222222222, 0.6, 0.357142857143
+overcast, 0.444444444444, 0.0, 0.285714285714
+rainy, 0.333333333333, 0.4, 0.357142857143
+hot, 0.222222222222, 0.4, 0.285714285714
+mild, 0.444444444444, 0.4, 0.428571428571
+cool, 0.333333333333, 0.2, 0.285714285714
+high, 0.333333333333, 0.8, 0.5
+normal, 0.666666666667, 0.2, 0.5
+TRUE, 0.333333333333, 0.6, 0.428571428571
+FALSE, 0.666666666667, 0.4, 0.571428571429
+yes, 9, 9, 0.642857142857
+no, 5, 5, 0.357142857143
